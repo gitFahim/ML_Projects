@@ -1,2 +1,2 @@
 # ML_Projects
-ML projects
+These are the projects I have developed so far
